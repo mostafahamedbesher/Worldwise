@@ -1,8 +1,36 @@
-# React + Vite
+# World Wise App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+A world map that tracks your footsteps into every city you can think of.
+Never forget your wonderful experiences, and show your friends how you have wandered the world.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+* Reactjs
+* context API
+* useReducer
+* React Router
+* memo
+* useMemo
+* useCallback
+* using 3rd-party library (leaflet map)
+
+
+## Features
+* Track your trips easily
+* Basic sign-up and sign-in functionality
+* easily Getting your position using Geolocation API
+* easily add and remove trip locations
+
+
+## Demo
+
+### Link : https://worldwise-besher.netlify.app
+
+### Video
+https://github.com/mostafahamedbesher/Worldwise/assets/77936621/b0620917-fcab-468d-93ef-7aad36e68a37
+
+
+
+
+
